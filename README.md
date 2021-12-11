@@ -1,5 +1,6 @@
-#I am teaching Money and Banking for undergraduates at Queens College.
-#Lesson 1: Overview of the Financial System
+I am teaching Money and Banking for undergraduates at Queens College.<br />
+
+Lesson 1: Overview of the Financial System
 Lesson 2: What is money, money supply and demand
 Lesson 3: Interest Rate
 Lesson 4: Interest Rate Part 2
